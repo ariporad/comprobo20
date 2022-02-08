@@ -24,6 +24,6 @@ echo "NOTE: If you restart gzserver in the VM, you'll need to restart this."
 echo ""
 
 
-GAZEBO_MASTER_IP=127.0.0.1:11345 gzclient $@
+GAZEBO_MASTER_IP=ubuntu:11345 gzclient $@
 
 echo "Gazebo Finished"
