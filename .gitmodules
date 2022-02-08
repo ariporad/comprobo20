@@ -1,0 +1,3 @@
+[submodule "warmup_project"]
+	path = warmup_project
+	url = git@github.com:ariporad/warmup_project.git
